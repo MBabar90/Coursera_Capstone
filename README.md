@@ -6,6 +6,6 @@ IBM Applied Data Science Capstone
 - Exploratory Data Analysis with SQL
 - Exploratory Data Analysis using Pandas and Matplotlib
 - Data Visualization using Folium
-- Dashboard Visualization using Ploty Dash
+- Dashboard Visualization using Plotly Dash
 - Machine Learning/Predictive Analysis
 - Presentation
