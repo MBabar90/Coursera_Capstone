@@ -1,4 +1,4 @@
-# IBM Applied Data Science Capstone
+# IBM Applied Data Science Capstone (COURSERA)
 IBM Applied Data Science Capstone
 - Data Collection through API
 - Data Collection with Web Scraping
